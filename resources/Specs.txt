@@ -1,2 +1,50 @@
 School Management System Requirements:
 
+Manage students and faculty statuses and finance.
+
+Variables:
+	Students:
+		name
+		id
+		balance
+		status
+
+	Faculty:
+		name
+		id
+		job
+		salary
+		status
+
+	School:
+		Faculty
+		Students
+		enrollmentFee
+		startingSalary
+		
+
+Methods:	
+	Students:
+		getName
+		getId
+		getBalance
+		getStatus
+		payment
+		addFees
+		changeStatus
+
+
+	Faculty:
+		getName
+		getId
+		getStatus
+		getSalary
+		getJob
+		setJob
+		setSalary
+		changeStatus
+
+	School:
+		main
+		
+		
