@@ -30,7 +30,7 @@ Methods:
 		getBalance
 		getStatus
 		payment
-		addFees
+		charge
 		changeStatus
 
 
