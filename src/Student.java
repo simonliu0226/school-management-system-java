@@ -2,8 +2,8 @@
  * @author Simon
  */
 public class Student {
-    final private String name;
-    final private int id;
+    private final String name;
+    private final int id;
     private double balance;
     private boolean status;
 

@@ -45,6 +45,11 @@ Methods:
 		changeStatus
 
 	School:
-		main
+		addStudent
+		addFacultyMember
+		getStudent
+		getFacultyMember
+		getEnrollmentFee
+		getStartingSalary
 		
 		

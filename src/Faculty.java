@@ -2,8 +2,8 @@
  * @author Simon
  */
 public class Faculty {
-    final private String name;
-    final private int id;
+    private final String name;
+    private final int id;
     private String job;
     private double salary;
     private boolean status;
